@@ -1,0 +1,25 @@
+{
+  "name": "ob_m3_t1_e1",
+  "version": "1.0.0",
+  "description": "Modulo 2, tema 1, ejercicio 1",
+  "main": "src/js/index.js",
+  "scripts": {
+    "run": "node src/js/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAbadNoriega/OB_M3_T1_E1.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "js"
+  ],
+  "author": "Daniel Abad Noriega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAbadNoriega/OB_M3_T1_E1/issues"
+  },
+  "homepage": "https://github.com/DanielAbadNoriega/OB_M3_T1_E1#readme"
+}
